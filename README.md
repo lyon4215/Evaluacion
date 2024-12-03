@@ -44,6 +44,8 @@ json
     }
   ]
 }
+
+
 Posibles respuestas:
 Éxito (200):
 json
@@ -75,6 +77,8 @@ json
     },
     "mensaje": "Usuario registrado exitosamente"
 }
+
+
 Error (400):
 json
 
